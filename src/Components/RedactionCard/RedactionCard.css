@@ -1,0 +1,19 @@
+.redaction {
+    display: flex;
+    flex-direction: column;
+}
+
+.redaction-input {
+    margin-left: 20px;
+}
+
+.redaction-btn {
+    margin-top: 20px;
+    width: 200px;
+    position: relative;
+    left: 580px;
+}
+
+.redaction-img-box {
+    margin-right: 20px;
+}

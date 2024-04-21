@@ -1,0 +1,22 @@
+.card-view {
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.redaction-btn, .delete-btn{
+    padding: 10px;
+    /* margin-right: 10px; */
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    width: 200px;
+}
+
+.redaction-btn {
+    background-color: rgb(52, 52, 250);
+}
+
+.delete-btn {
+    background-color: rgb(246, 34, 34);
+}
